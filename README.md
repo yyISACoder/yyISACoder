@@ -1,5 +1,5 @@
 <p align='center'>
-  <img width='140' src='https://github.com/yyISACoder/yyISACoder/blob/main/me.png?raw=true' style='border-radius:50%'>
+  <img width='140' src='https://github.com/yyISACoder/yyISACoder/blob/main/me.png' style='border-radius:50%'>
   <p align='center'>Mr_Carl</p>
   <p align='center'>永远年轻，永远热泪盈眶🥲</p>
 </p>
