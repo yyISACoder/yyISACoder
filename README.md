@@ -4,11 +4,13 @@
   <p align='center'>永远年轻，永远热泪盈眶🥲</p>
 </p>
 
-👋Hi! 我是Carl  
+👋Hi! I'm Carl
 
-我来自四川成都，热爱生活，性格随和，目前已有5年的web前端工作经验。前端是一门很深的学问，无止境的新奇玩意，很好奇和期待，喜欢钻研前沿技术，学习自驱力较强，有定期写博客的习惯  
+I come from Chengdu, Sichuan Province. I love life and am easy-going. At present, I have 5 years of web front-end work experience. The front-end is  profound and it has endless novelty. 
 
-欢迎大家来逛逛[我的博客](https://www.carlblog.site)
+I am very curious and expectant about the front-end, what is more, I like to study cutting-edge technologies and have a strong learning drive.
+
+At last, I want to show my blog to you, welcome to [my blog](https://www.carlblog.site)!
 
 ## Summary
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyISACoder&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
