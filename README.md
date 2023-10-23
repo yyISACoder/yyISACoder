@@ -1,7 +1,8 @@
 <p align='center'>
   <img width='140' src='https://github.com/yyISACoder/yyISACoder/blob/main/qlm-yy.png' style='border-radius:50%'>
-  <p align='center'>Mr.Carl</p>
-  <p align='center'>zuò yì pǐ qián duān jiè de qiān lǐ mǎ</p>
+  <p align='center'><span position='relative' top='-3px'>Mr.Carl</span>&nbsp;&nbsp;<img src='https://komarev.com/ghpvc/?username=yyISACoder&label=Views&color=0e75b6&style=flat'></p>
+  <p align='center'><img src='https://github-profile-trophy.vercel.app/?username=yyISACoder'/></p>
+  <p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Welcome+to+my+github%2C+my+dear+friend!" alt="Typing SVG" /></a></p>
 </p>
 
 👋Hi! I'm Carl
